@@ -2,5 +2,4 @@
 Allows batch modification of the fields within a JSON file, such as for a game's save data
 
 Video demonstration:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mkwaro2NQfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Watch the video](https://img.youtube.com/vi/mkwaro2NQfc/hqdefault.jpg)](https://www.youtube.com/embed/mkwaro2NQfc)
